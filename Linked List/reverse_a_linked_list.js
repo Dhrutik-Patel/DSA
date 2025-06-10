@@ -29,3 +29,5 @@ console.log("Reversed Linked List:");
 const reversedList = new LinkedList();
 reversedList.head = reversedHead;
 reversedList.print();
+
+// Okay
